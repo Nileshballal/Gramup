@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/bidding_lay.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/choose_attachment_option_dialog.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/commision_item_lay.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/corporate_lay.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/dashboard_lay.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/enquiry_lay.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/home_menu.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/jobs_item_lay.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/lead_fragment.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/leads_tab.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/list_lay.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/liveleads_item_lay.xml" value="0.1" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/myleads_item_lay.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/otp_lay.xml" value="0.25" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/progreass_lay.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/signup_lay.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/tab_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/E_Drive_Backup/Nilesh Image/LeadsApp/app/src/main/res/layout/user_lay.xml" value="0.17028985507246377" />
+        <entry key="..\:/Project/Gramup Project/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/Project/Gramup Project/app/src/main/res/layout/lead_fragment.xml" value="0.16" />
+        <entry key="..\:/Project/Gramup Project/app/src/main/res/layout/user_lay.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

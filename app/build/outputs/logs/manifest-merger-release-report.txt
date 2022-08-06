@@ -1,0 +1,311 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:55:9-63:20
+	android:grantUriPermissions
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:59:13-47
+	android:authorities
+		INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:57:13-60
+	android:exported
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:56:13-67
+manifest
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:2:1-76:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\275cec3d7aafd7f9c88f677de59ceec8\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\e111dde411ce5610ce23bd1eb9e8ada0\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\a3a6162a0e4ee8c963a09697a25611e7\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\74b8c9478074e98a2686807b1ed25dd8\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\fd522c1bab6ee1638ee9153546c5b540\library-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\5a4b9e38bcbe2c7964555377df9e2014\fresco-1.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\567f8590aef51047eb9ec89e1903cc33\drawee-1.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\56789f62d0f58d7ac3dcb0e0fe748929\nativeimagefilters-1.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\bccd0cb46014657d031818d44740ff99\imagepipeline-1.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\4968d4c7605b122e0c7466d20185427f\android-gif-drawable-1.2.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\6045a25c3a9cd4ad3c9aed09d737d3c1\multidex-1.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\53fc7036ae5c25f2531fd861a76c129c\library-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\274f684c73bd01ffd99cccd8a2f6d272\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\22693e649036ee56f5f507857a6b5451\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\e74d0677b85cb99e7c7d7c38c5579ce9\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\c4a9d3aab3df4ad7884d73a688a8c9d1\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b54b15c3500bbbb7a5bdd2fa5c613215\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\f7f6cd59fee969b279773a2298b7454d\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\c9895d13681cd36c45a2550853feaf4e\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\13915583513294aad7db9aabb01abc11\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\4f9de2bd7d635b1e8c5832e3a72b2013\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\95ac4be3cd72183d0530795f0c49b780\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\5ae508d325769399a79ec1560b070c4a\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\e90e0485f8c1bedab79f1c354cbeccc0\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\4e0b3cc0c50dffe48d85309f1f0d1b0d\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\cda6b1b17defa4eaa36cccb1d0947548\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b78dd6eebf15fc4e52f3d86799a3854c\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\23853ed77066682b95e7bf1bc9d8632c\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\e3d225558292663ecaa87ade177daa57\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\a05ac61d3a1fee7a005503005527427f\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\dc1c82e708473b018336613ce44a63a8\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\ced520082e63b6b9f1f052cbf705952e\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\bd791d5018998625dbd15e29d6ef366a\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\d72284e8c980503c8e71989cbd24012e\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\a3a10d91705f6e3909e83cdbb325b39f\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\95de91661e302ecb431606c4f4b420a4\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b8e6d8518f7319f2c087464261364860\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\2ae5a345e542e1dd60e61b5000a444b3\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\2349d0d36c0845cfa80157fd5a4f1fd1\imagepipeline-base-1.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\f04504f89a3dae6a87536f5aee1d16e9\fbcore-1.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\27b3fe2d476661c294d00bb28dd2eae4\soloader-0.5.1\AndroidManifest.xml:2:1-13:12
+INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:2:1-76:12
+	package
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:15:22-77
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:16:19-67
+uses-permission#android.permission.CAMERA
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:17:22-62
+application
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:19:5-65:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\275cec3d7aafd7f9c88f677de59ceec8\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\275cec3d7aafd7f9c88f677de59ceec8\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\53fc7036ae5c25f2531fd861a76c129c\library-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\53fc7036ae5c25f2531fd861a76c129c\library-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b78dd6eebf15fc4e52f3d86799a3854c\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b78dd6eebf15fc4e52f3d86799a3854c\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\23853ed77066682b95e7bf1bc9d8632c\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\23853ed77066682b95e7bf1bc9d8632c\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\27b3fe2d476661c294d00bb28dd2eae4\soloader-0.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\27b3fe2d476661c294d00bb28dd2eae4\soloader-0.5.1\AndroidManifest.xml:11:5-20
+	android:requestLegacyExternalStorage
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:25:9-52
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b78dd6eebf15fc4e52f3d86799a3854c\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:20:9-36
+		REJECTED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:27:9-40
+	tools:replace
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:26:9-44
+	android:usesCleartextTraffic
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:24:9-44
+uses-library#org.apache.http.legacy
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:29:9-31:40
+	android:required
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:30:13-50
+activity#com.syndicate.lead.activity.MainActivity
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:34:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.syndicate.lead.activity.LeadsMainActivity
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:42:9-43:58
+	android:theme
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:42:19-79
+activity#com.syndicate.lead.activity.DashboardActivity
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:45:9-46:58
+	android:theme
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:45:19-79
+activity#com.syndicate.lead.activity.CorporateRegistrationActivity
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:49:9-93
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:49:19-91
+activity#com.syndicate.lead.activity.UserRegistrationActivity
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:50:9-88
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:50:19-86
+activity#com.syndicate.lead.activity.EnquiryActivity
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:51:9-79
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:51:19-77
+activity#com.syndicate.lead.corporate.LiveLeadsActivity
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:52:9-82
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:52:19-80
+activity#com.syndicate.lead.corporate.EnquriesActivity
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:53:9-81
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:53:19-79
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:66:5-74
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:66:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:67:5-68
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:67:22-65
+uses-sdk
+INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\275cec3d7aafd7f9c88f677de59ceec8\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\275cec3d7aafd7f9c88f677de59ceec8\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\e111dde411ce5610ce23bd1eb9e8ada0\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\e111dde411ce5610ce23bd1eb9e8ada0\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\a3a6162a0e4ee8c963a09697a25611e7\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\a3a6162a0e4ee8c963a09697a25611e7\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\74b8c9478074e98a2686807b1ed25dd8\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\74b8c9478074e98a2686807b1ed25dd8\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\fd522c1bab6ee1638ee9153546c5b540\library-2.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\fd522c1bab6ee1638ee9153546c5b540\library-2.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\5a4b9e38bcbe2c7964555377df9e2014\fresco-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\5a4b9e38bcbe2c7964555377df9e2014\fresco-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\567f8590aef51047eb9ec89e1903cc33\drawee-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\567f8590aef51047eb9ec89e1903cc33\drawee-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\56789f62d0f58d7ac3dcb0e0fe748929\nativeimagefilters-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\56789f62d0f58d7ac3dcb0e0fe748929\nativeimagefilters-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\bccd0cb46014657d031818d44740ff99\imagepipeline-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\bccd0cb46014657d031818d44740ff99\imagepipeline-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\4968d4c7605b122e0c7466d20185427f\android-gif-drawable-1.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\4968d4c7605b122e0c7466d20185427f\android-gif-drawable-1.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\6045a25c3a9cd4ad3c9aed09d737d3c1\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\6045a25c3a9cd4ad3c9aed09d737d3c1\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\53fc7036ae5c25f2531fd861a76c129c\library-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\53fc7036ae5c25f2531fd861a76c129c\library-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\274f684c73bd01ffd99cccd8a2f6d272\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\274f684c73bd01ffd99cccd8a2f6d272\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\22693e649036ee56f5f507857a6b5451\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\22693e649036ee56f5f507857a6b5451\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\e74d0677b85cb99e7c7d7c38c5579ce9\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\e74d0677b85cb99e7c7d7c38c5579ce9\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\c4a9d3aab3df4ad7884d73a688a8c9d1\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\c4a9d3aab3df4ad7884d73a688a8c9d1\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b54b15c3500bbbb7a5bdd2fa5c613215\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b54b15c3500bbbb7a5bdd2fa5c613215\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\f7f6cd59fee969b279773a2298b7454d\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\f7f6cd59fee969b279773a2298b7454d\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\c9895d13681cd36c45a2550853feaf4e\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\c9895d13681cd36c45a2550853feaf4e\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\13915583513294aad7db9aabb01abc11\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\13915583513294aad7db9aabb01abc11\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\4f9de2bd7d635b1e8c5832e3a72b2013\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\4f9de2bd7d635b1e8c5832e3a72b2013\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\95ac4be3cd72183d0530795f0c49b780\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\95ac4be3cd72183d0530795f0c49b780\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\5ae508d325769399a79ec1560b070c4a\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\5ae508d325769399a79ec1560b070c4a\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\e90e0485f8c1bedab79f1c354cbeccc0\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\e90e0485f8c1bedab79f1c354cbeccc0\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\4e0b3cc0c50dffe48d85309f1f0d1b0d\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\4e0b3cc0c50dffe48d85309f1f0d1b0d\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\cda6b1b17defa4eaa36cccb1d0947548\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\cda6b1b17defa4eaa36cccb1d0947548\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b78dd6eebf15fc4e52f3d86799a3854c\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b78dd6eebf15fc4e52f3d86799a3854c\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\23853ed77066682b95e7bf1bc9d8632c\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\23853ed77066682b95e7bf1bc9d8632c\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\e3d225558292663ecaa87ade177daa57\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\e3d225558292663ecaa87ade177daa57\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\a05ac61d3a1fee7a005503005527427f\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\a05ac61d3a1fee7a005503005527427f\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\dc1c82e708473b018336613ce44a63a8\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\dc1c82e708473b018336613ce44a63a8\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\ced520082e63b6b9f1f052cbf705952e\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\ced520082e63b6b9f1f052cbf705952e\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\bd791d5018998625dbd15e29d6ef366a\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\bd791d5018998625dbd15e29d6ef366a\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\d72284e8c980503c8e71989cbd24012e\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\d72284e8c980503c8e71989cbd24012e\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\a3a10d91705f6e3909e83cdbb325b39f\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\a3a10d91705f6e3909e83cdbb325b39f\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\95de91661e302ecb431606c4f4b420a4\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\95de91661e302ecb431606c4f4b420a4\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b8e6d8518f7319f2c087464261364860\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\b8e6d8518f7319f2c087464261364860\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\2ae5a345e542e1dd60e61b5000a444b3\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\2ae5a345e542e1dd60e61b5000a444b3\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\2349d0d36c0845cfa80157fd5a4f1fd1\imagepipeline-base-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\2349d0d36c0845cfa80157fd5a4f1fd1\imagepipeline-base-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\f04504f89a3dae6a87536f5aee1d16e9\fbcore-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.11.0] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\f04504f89a3dae6a87536f5aee1d16e9\fbcore-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\27b3fe2d476661c294d00bb28dd2eae4\soloader-0.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nilesh\.gradle\caches\transforms-2\files-2.1\27b3fe2d476661c294d00bb28dd2eae4\soloader-0.5.1\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:60:13-62:58
+	android:resource
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:62:17-55
+	android:name
+		ADDED from E:\E_Drive_Backup\Nilesh Image\LeadsApp\app\src\main\AndroidManifest.xml:61:17-67

@@ -1,0 +1,351 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:59:9-67:20
+	android:grantUriPermissions
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:63:13-47
+	android:authorities
+		INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:61:13-60
+	android:exported
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:60:13-62
+manifest
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:2:1-80:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\20581a7db7c492f2b45baf483fc4e2c8\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\51754ef5090fa1e873bea0b731eaaef9\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.mojoauth.android:mojoauth-sdk:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0752b77141a5dfe88eea98b7fcacc517\mojoauth-sdk-1.1.0\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0bd7c5f9d872f5f1fde2123ae9adacf9\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\cab24ec7d5b70c685b06b77e18491931\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c258a036b7c0c48051ab7923a4221a1b\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\fd522c1bab6ee1638ee9153546c5b540\library-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b28b269133cf5362d477ef3301dd3a7c\jetified-fresco-1.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\a64fa713b8c6b897987f248238e4ece7\jetified-drawee-1.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\56789f62d0f58d7ac3dcb0e0fe748929\nativeimagefilters-1.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c706c866c6493839ea567cc1a691e54a\jetified-imagepipeline-1.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.1] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\530cf94626672afbae16daefc2ba114b\jetified-android-gif-drawable-1.2.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\d70bef2b3b49d319aef050a31153a222\jetified-library-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\e9e65120788981571bbeceb22136d7de\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\13d5d5f7402beb30f8166ef0cbc5bc8d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b8bd2944b59952a2320d66169d0e9c0c\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c9a4a3f25224166077975f486bd637a0\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\2f9e613eb4f1d5c9714c56378c7997c0\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\014fea13e5afde2d65054c0cfd4d8bf5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\aa16b06429eabc8ec9b4ab12d4f6cd3d\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\ba3866c865c8c0107097d47dfec928d3\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\ebf5ff8a66ca195e15ed714fccaee6a3\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\a74643658af15f214448dcbdc5a2831e\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\f7ae7daeeec1a0b4806427276c3466c1\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\4dc6d924b0a0469bd33a08495a30929b\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\221cdbb72f58df68cdc1984a453c6b54\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\2bbadb665d972606af5caf494361a3af\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\a0b6fe59f07b3920052ffc26bcb34358\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\d213c8a46a03b68bf27680e428df4528\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\540ac116600fb735ee37b5f9372414fa\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\8f3ae8b61766312eabd177707ae743f9\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c9637011046d5c05666843ec9564d5f1\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c7681c6f719a8f5da9a03641f2d4cba8\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\4ebe577f0548084a8e5e2237b380aac3\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b681b7e6cc2e7ce991b54f32936075fc\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\76cbf120d96e46b810d65a2704fdd0d0\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\d950b8cfa0246ca3a4ae9a8fe7369bcb\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\825b842c3974d3f580fa5287f6a0bb51\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\9c2045497cc85307fae5594b0b0de5bd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\9986d896b240b39a34896eabd418cf99\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\343a8f638a3099036c65b37d28942d7f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\636d8e20b062dc0aedd3740537b6f6ce\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\1d27823c9c9a8a79d9bb09ff7a122a2d\jetified-imagepipeline-base-1.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\e02d5e65fc69157d7b0cfdc8f64bde44\jetified-fbcore-1.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\27b3fe2d476661c294d00bb28dd2eae4\soloader-0.5.1\AndroidManifest.xml:2:1-13:12
+INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.mojoauth.android:mojoauth-sdk:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0752b77141a5dfe88eea98b7fcacc517\mojoauth-sdk-1.1.0\AndroidManifest.xml:14:5-79
+MERGED from [com.mojoauth.android:mojoauth-sdk:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0752b77141a5dfe88eea98b7fcacc517\mojoauth-sdk-1.1.0\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:9:5-66
+MERGED from [com.mojoauth.android:mojoauth-sdk:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0752b77141a5dfe88eea98b7fcacc517\mojoauth-sdk-1.1.0\AndroidManifest.xml:13:5-67
+MERGED from [com.mojoauth.android:mojoauth-sdk:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0752b77141a5dfe88eea98b7fcacc517\mojoauth-sdk-1.1.0\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:15:22-77
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:16:19-67
+uses-permission#android.permission.CAMERA
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:17:22-62
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:18:5-76
+MERGED from [com.mojoauth.android:mojoauth-sdk:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0752b77141a5dfe88eea98b7fcacc517\mojoauth-sdk-1.1.0\AndroidManifest.xml:11:5-76
+MERGED from [com.mojoauth.android:mojoauth-sdk:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0752b77141a5dfe88eea98b7fcacc517\mojoauth-sdk-1.1.0\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:19:5-71
+MERGED from [com.mojoauth.android:mojoauth-sdk:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0752b77141a5dfe88eea98b7fcacc517\mojoauth-sdk-1.1.0\AndroidManifest.xml:15:5-71
+MERGED from [com.mojoauth.android:mojoauth-sdk:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0752b77141a5dfe88eea98b7fcacc517\mojoauth-sdk-1.1.0\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:19:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:20:22-71
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:21:22-71
+application
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:23:5-69:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\51754ef5090fa1e873bea0b731eaaef9\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\51754ef5090fa1e873bea0b731eaaef9\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\d70bef2b3b49d319aef050a31153a222\jetified-library-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\d70bef2b3b49d319aef050a31153a222\jetified-library-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b681b7e6cc2e7ce991b54f32936075fc\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b681b7e6cc2e7ce991b54f32936075fc\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\76cbf120d96e46b810d65a2704fdd0d0\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\76cbf120d96e46b810d65a2704fdd0d0\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\27b3fe2d476661c294d00bb28dd2eae4\soloader-0.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\27b3fe2d476661c294d00bb28dd2eae4\soloader-0.5.1\AndroidManifest.xml:11:5-20
+	android:requestLegacyExternalStorage
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:29:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b681b7e6cc2e7ce991b54f32936075fc\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:27:9-41
+	android:roundIcon
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:26:9-54
+	android:icon
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:24:9-36
+		REJECTED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:31:9-40
+	tools:replace
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:30:9-44
+	android:usesCleartextTraffic
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:28:9-44
+uses-library#org.apache.http.legacy
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:34:13-50
+activity#com.gramup.lead.activity.MainActivity
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:37:9-45:20
+	android:label
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:38:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.gramup.lead.activity.LeadsMainActivity
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:46:9-47:58
+	android:theme
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:46:19-76
+activity#com.gramup.lead.activity.DashboardActivity
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:49:9-50:58
+	android:theme
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:49:19-76
+activity#com.gramup.lead.activity.CorporateRegistrationActivity
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:53:9-90
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:53:19-88
+activity#com.gramup.lead.activity.UserRegistrationActivity
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:54:9-85
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:54:19-83
+activity#com.gramup.lead.activity.EnquiryActivity
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:55:9-76
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:55:19-74
+activity#com.gramup.lead.corporate.LiveLeadsActivity
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:56:9-79
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:56:19-77
+activity#com.gramup.lead.corporate.EnquriesActivity
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:57:9-78
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:57:19-76
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:70:5-74
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:70:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:71:5-68
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:71:22-65
+uses-sdk
+INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\20581a7db7c492f2b45baf483fc4e2c8\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\20581a7db7c492f2b45baf483fc4e2c8\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\51754ef5090fa1e873bea0b731eaaef9\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\51754ef5090fa1e873bea0b731eaaef9\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ar-android:AndroidSvgLoader:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b6e2ac0e0cc3d1fdcae52f2cc461ab1d\AndroidSvgLoader-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mojoauth.android:mojoauth-sdk:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0752b77141a5dfe88eea98b7fcacc517\mojoauth-sdk-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mojoauth.android:mojoauth-sdk:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0752b77141a5dfe88eea98b7fcacc517\mojoauth-sdk-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0bd7c5f9d872f5f1fde2123ae9adacf9\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0bd7c5f9d872f5f1fde2123ae9adacf9\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\cab24ec7d5b70c685b06b77e18491931\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\cab24ec7d5b70c685b06b77e18491931\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c258a036b7c0c48051ab7923a4221a1b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c258a036b7c0c48051ab7923a4221a1b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\fd522c1bab6ee1638ee9153546c5b540\library-2.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\fd522c1bab6ee1638ee9153546c5b540\library-2.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b28b269133cf5362d477ef3301dd3a7c\jetified-fresco-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b28b269133cf5362d477ef3301dd3a7c\jetified-fresco-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\a64fa713b8c6b897987f248238e4ece7\jetified-drawee-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\a64fa713b8c6b897987f248238e4ece7\jetified-drawee-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\56789f62d0f58d7ac3dcb0e0fe748929\nativeimagefilters-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\56789f62d0f58d7ac3dcb0e0fe748929\nativeimagefilters-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c706c866c6493839ea567cc1a691e54a\jetified-imagepipeline-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c706c866c6493839ea567cc1a691e54a\jetified-imagepipeline-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.1] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\530cf94626672afbae16daefc2ba114b\jetified-android-gif-drawable-1.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.1] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\530cf94626672afbae16daefc2ba114b\jetified-android-gif-drawable-1.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\d70bef2b3b49d319aef050a31153a222\jetified-library-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\d70bef2b3b49d319aef050a31153a222\jetified-library-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\e9e65120788981571bbeceb22136d7de\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\e9e65120788981571bbeceb22136d7de\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\13d5d5f7402beb30f8166ef0cbc5bc8d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\13d5d5f7402beb30f8166ef0cbc5bc8d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b8bd2944b59952a2320d66169d0e9c0c\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b8bd2944b59952a2320d66169d0e9c0c\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c9a4a3f25224166077975f486bd637a0\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c9a4a3f25224166077975f486bd637a0\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\2f9e613eb4f1d5c9714c56378c7997c0\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\2f9e613eb4f1d5c9714c56378c7997c0\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\014fea13e5afde2d65054c0cfd4d8bf5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\014fea13e5afde2d65054c0cfd4d8bf5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\aa16b06429eabc8ec9b4ab12d4f6cd3d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\aa16b06429eabc8ec9b4ab12d4f6cd3d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\ba3866c865c8c0107097d47dfec928d3\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\ba3866c865c8c0107097d47dfec928d3\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\ebf5ff8a66ca195e15ed714fccaee6a3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\ebf5ff8a66ca195e15ed714fccaee6a3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\a74643658af15f214448dcbdc5a2831e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\a74643658af15f214448dcbdc5a2831e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\f7ae7daeeec1a0b4806427276c3466c1\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\f7ae7daeeec1a0b4806427276c3466c1\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\4dc6d924b0a0469bd33a08495a30929b\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\4dc6d924b0a0469bd33a08495a30929b\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\221cdbb72f58df68cdc1984a453c6b54\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\221cdbb72f58df68cdc1984a453c6b54\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\2bbadb665d972606af5caf494361a3af\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\2bbadb665d972606af5caf494361a3af\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\a0b6fe59f07b3920052ffc26bcb34358\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\a0b6fe59f07b3920052ffc26bcb34358\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\d213c8a46a03b68bf27680e428df4528\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\d213c8a46a03b68bf27680e428df4528\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\540ac116600fb735ee37b5f9372414fa\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\540ac116600fb735ee37b5f9372414fa\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\8f3ae8b61766312eabd177707ae743f9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\8f3ae8b61766312eabd177707ae743f9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c9637011046d5c05666843ec9564d5f1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c9637011046d5c05666843ec9564d5f1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c7681c6f719a8f5da9a03641f2d4cba8\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\c7681c6f719a8f5da9a03641f2d4cba8\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\4ebe577f0548084a8e5e2237b380aac3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\4ebe577f0548084a8e5e2237b380aac3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b681b7e6cc2e7ce991b54f32936075fc\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\b681b7e6cc2e7ce991b54f32936075fc\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\76cbf120d96e46b810d65a2704fdd0d0\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\76cbf120d96e46b810d65a2704fdd0d0\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\d950b8cfa0246ca3a4ae9a8fe7369bcb\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\d950b8cfa0246ca3a4ae9a8fe7369bcb\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\825b842c3974d3f580fa5287f6a0bb51\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\825b842c3974d3f580fa5287f6a0bb51\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\9c2045497cc85307fae5594b0b0de5bd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\9c2045497cc85307fae5594b0b0de5bd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\9986d896b240b39a34896eabd418cf99\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\9986d896b240b39a34896eabd418cf99\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\343a8f638a3099036c65b37d28942d7f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\343a8f638a3099036c65b37d28942d7f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\636d8e20b062dc0aedd3740537b6f6ce\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\636d8e20b062dc0aedd3740537b6f6ce\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\1d27823c9c9a8a79d9bb09ff7a122a2d\jetified-imagepipeline-base-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\1d27823c9c9a8a79d9bb09ff7a122a2d\jetified-imagepipeline-base-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\e02d5e65fc69157d7b0cfdc8f64bde44\jetified-fbcore-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.11.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\e02d5e65fc69157d7b0cfdc8f64bde44\jetified-fbcore-1.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\27b3fe2d476661c294d00bb28dd2eae4\soloader-0.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\27b3fe2d476661c294d00bb28dd2eae4\soloader-0.5.1\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:64:13-66:58
+	android:resource
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:66:17-55
+	android:name
+		ADDED from E:\Project\Gramup Project\app\src\main\AndroidManifest.xml:65:17-67
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.mojoauth.android:mojoauth-sdk:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0752b77141a5dfe88eea98b7fcacc517\mojoauth-sdk-1.1.0\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [com.mojoauth.android:mojoauth-sdk:1.1.0] C:\Users\Nilesh Ballal\.gradle\caches\transforms-2\files-2.1\0752b77141a5dfe88eea98b7fcacc517\mojoauth-sdk-1.1.0\AndroidManifest.xml:12:22-73

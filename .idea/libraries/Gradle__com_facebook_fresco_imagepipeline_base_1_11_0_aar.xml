@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:imagepipeline-base:1.11.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.11.0.aar/50fda1db81249796ca686bd9cc5acf3e/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d27823c9c9a8a79d9bb09ff7a122a2d/jetified-imagepipeline-base-1.11.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.11.0.aar/50fda1db81249796ca686bd9cc5acf3e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.11.0.aar/50fda1db81249796ca686bd9cc5acf3e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.11.0.aar/6c4afab51ecf83235739bac449455d88/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2349d0d36c0845cfa80157fd5a4f1fd1/imagepipeline-base-1.11.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d27823c9c9a8a79d9bb09ff7a122a2d/jetified-imagepipeline-base-1.11.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d27823c9c9a8a79d9bb09ff7a122a2d/jetified-imagepipeline-base-1.11.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d27823c9c9a8a79d9bb09ff7a122a2d/jetified-imagepipeline-base-1.11.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/imagepipeline-base/1.11.0/e0d5517a179d895cde6014b59a8758b2a54ae4b8/imagepipeline-base-1.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/imagepipeline-base/1.11.0/d045f0b22642e94636bd7513391e92e90bcbac20/imagepipeline-base-1.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

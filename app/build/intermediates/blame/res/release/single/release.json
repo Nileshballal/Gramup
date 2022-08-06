@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_leads_tab.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\leads_tab.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_list_lay.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\list_lay.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_lead_fragment.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\lead_fragment.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_leads_logo_tr.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\leads_logo_tr.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_enquiry_lay.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\enquiry_lay.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_home_menu.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\home_menu.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_mobile.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\mobile.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_home_lay.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\home_lay.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_address.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\address.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_user.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_attachment.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\attachment.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_liveleads_item_lay.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\liveleads_item_lay.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\menu_login_menu.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\menu\\login_menu.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_progreass_lay.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\progreass_lay.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\xml_provider_paths.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_user_lay.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\user_lay.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_corporate_lay.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\corporate_lay.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_location.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_job_desc.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\job_desc.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_signup_lay.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\signup_lay.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_bidding_lay.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\bidding_lay.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_year.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\year.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_company.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\company.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_tab_main.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\tab_main.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_date.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\date.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_xml_button.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\xml_button.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_bag.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\bag.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_email_boder.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\email_boder.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_choose_attachment_option_dialog.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\choose_attachment_option_dialog.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_jobs_item_lay.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\jobs_item_lay.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pass.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\pass.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_commision_item_lay.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\commision_item_lay.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_dashboard_lay.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\dashboard_lay.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_progress.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\layout_myleads_item_lay.xml.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\layout\\myleads_item_lay.xml"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_service.png.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\service.png"
+    },
+    {
+        "merged": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_lead_logo.jpg.flat",
+        "source": "E:\\E_Drive_Backup\\Nilesh Image\\LeadsApp\\app\\src\\main\\res\\drawable\\lead_logo.jpg"
+    }
+]

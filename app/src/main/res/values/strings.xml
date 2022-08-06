@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gramup</string>
+<!--
+    <string name="baseurl">https://pos.debuglayer.com/public/api</string>
+-->
+    <string name="baseurl">https://gram-up.com/gramup/api</string>
+</resources>
